@@ -1,0 +1,13 @@
+*.apk
+*.so
+META-INF/
+addon.d/
+90bit_gapps.sh
+system/etc/
+system/framework/
+system/lib/
+system/lib64/
+system/xbin/
+tmp_run.sh
+vendor/
+
